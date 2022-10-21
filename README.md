@@ -12,6 +12,8 @@
   <img alt="dev.finances" src="https://imgur.com/9TCtFBs.png" width="50%">
 </div>
 
+## 🔦 Objective
+The ideia of the project is create a desktop application where is possible add informations about all the students.
 
 ## 🚀 Technologies
 
